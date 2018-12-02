@@ -2,6 +2,7 @@
 	display: grid;
 	grid-template-columns: 75% 25%;
 	grid-template-rows: 20% 80%;
+	
 }
 
 .item1{
@@ -30,12 +31,10 @@
 	margin: 10px;
 }
 
-.content{
+.mainboxes{
 	margin: 5px;
 	padding: 10px;
+	border:1px solid black;
+	text-align: center;
 }
 
-.trending{
-	margin: 5px;
-	padding: 10px;
-}
